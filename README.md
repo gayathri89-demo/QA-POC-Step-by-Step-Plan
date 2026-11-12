@@ -21,9 +21,7 @@ RELEASE
 POST-DEPLOYMENT TESTING
     ↓
 SUPPORT BOARD
-    ↓
-REGRESSION / PROCESS IMPROVEMENT
-
+    
 **2. Current State**
 
 Continuous development
@@ -38,12 +36,10 @@ Production/support issues are not always connected back to regression testing
 Goal
 Introduce a simple and repeatable QA process without creating unnecessary overhead or blocking continuous delivery.
 **3. Step 1 — Create QA Process Repository**
-Objective
 Create a central location for the QA process and make it a living document.
-Repository
-qa-process
 
-Initial Structure
+
+**Initial Structure**
 qa-process/
 │
 ├── README.md
