@@ -633,23 +633,6 @@ Completed.
 Commit
 docs: record QA POC observations
 
-**21. Step 19 — Conduct POC Retrospective**
-At the end of the POC, discuss with PM, Engineering, Design and QA.
-Questions
-What worked?
-What didn't work?
-What created unnecessary overhead?
-Where did QA identify issues early?
-Where were requirements unclear?
-What should become mandatory?
-What should be removed?
-What should be automated?
-What should be added to regression?
-Create:
-poc/retrospective.md
-
-Commit
-docs: add QA POC retrospective
 
 **22. Step 20 — Finalize the QA Process**
 After the POC:
@@ -700,27 +683,6 @@ qa-process/
     ├── observations.md
     └── retrospective.md
 
-**24. Git Commit Sequence**
-The recommended history is:
-1.  chore: initialize QA process POC repository
-2.  docs: document current QA process and baseline
-3.  docs: define four QA process flows
-4.  docs: add QA grooming and impact assessment process
-5.  docs: add pre-development QA review checklist
-6.  docs: define development and QA workflow
-7.  docs: add standardized test case template
-8.  docs: add standardized bug reporting process
-9.  docs: define defect severity guidelines
-10. docs: define UAT process and entry criteria
-11. docs: add QA release readiness process
-12. docs: add post-deployment QA validation process
-13. docs: define support board QA feedback process
-14. docs: define risk-based regression strategy
-15. docs: define QA process POC scope
-16. docs: add QA POC metrics
-17. docs: record QA POC observations
-18. docs: add QA POC retrospective
-19. docs: finalize QA process after POC
 
 
 Key Principle
